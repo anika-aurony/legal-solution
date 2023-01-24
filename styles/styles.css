@@ -1,3 +1,7 @@
 .legal-slide{
     height: 30rem;
 }
+
+.list{
+    list-style-type:none
+}
