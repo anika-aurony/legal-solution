@@ -5,3 +5,7 @@
 .list{
     list-style-type:none
 }
+
+.legal-colour{
+    background-color: rgba(202, 143, 33, 0.936);
+}
